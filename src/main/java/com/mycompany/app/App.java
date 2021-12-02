@@ -5,7 +5,7 @@ package com.mycompany.app;
  */
 
 /**
- * Modificac
+ * Modificacion
  */
 public class App
 {
